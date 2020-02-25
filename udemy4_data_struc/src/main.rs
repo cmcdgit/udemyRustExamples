@@ -6,12 +6,12 @@ struct Point
     y: f64
 }
 
-#[derive(Debug)]
-struct Line 
-{
-    start: Point,
-    end: Point
-}
+// #[derive(Debug)]
+// struct Line 
+// {
+//     start: Point,
+//     end: Point
+// }
 
 fn structures()
 {
