@@ -8,8 +8,8 @@ enum Color
     Red,
     Green,
     Blue,
-    RgbColor(u8, u8, u8),   // tuple
-    CmykColor{cyan:u8, magenta:u8, yellow:u8, black:u8}
+    RgbColor(u8, u8, u8),   // tuple  (round brackets)
+    CmykColor{cyan:u8, magenta:u8, yellow:u8, black:u8}  // curly braces
 }
 
 fn enums()
