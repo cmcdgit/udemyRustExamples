@@ -1,5 +1,7 @@
 use std::mem;
 
+
+// add comment
 struct Point 
 {
     x: f64,
