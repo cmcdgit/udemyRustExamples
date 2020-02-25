@@ -1,0 +1,1 @@
+/home/cmd/Programming/code/rust/udemy5_enumerations/target/debug/udemy5_enumerations: /home/cmd/Programming/code/rust/udemy5_enumerations/src/main.rs /home/cmd/Programming/code/rust/udemy5_enumerations/src/sh.rs
